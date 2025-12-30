@@ -1,0 +1,10 @@
+[
+  {
+    "id": "com.example.demo",
+    "name": "Demo Plugin",
+    "description": "Just a test plugin",
+    "version": "1.0.0",
+    "author": "Antigravity",
+    "downloadUrl": "https://github.com/lightning-start/demo-plugin/releases/download/v1.0.0/plugin.zip"
+  }
+]
